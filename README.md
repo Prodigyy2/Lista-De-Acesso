@@ -13,7 +13,7 @@ Um programa Python simples para verificação de idade, desenvolvido como parte 
 ✔ **Validação de idade** (acesso permitido apenas para maiores de 19 anos)  
 ✔ **Armazenamento em lista** (registro dos dados dos usuários autorizados)  
 ✔ **Relatório final** (lista de pessoas autorizadas e contagem total)  
-✔ **Loop interativo** (permite cadastrar vários usuários até digitar 'sair')  
+✔ **Loop interativo** (permite cadastrar vários usuários até digitar -'sair'-)  
 
 ---
 
