@@ -1,0 +1,10 @@
+# Requirements para execução do sistema de controle de acesso
+python>=3.8  # Versão mínima do Python
+
+# Bibliotecas básicas (já incluídas na instalação padrão do Python)
+# Nenhuma dependência externa é necessária para o código atual
+
+# Futuras dependências (comente as que planeja usar)
+# PySimpleGUI==4.60.4  # Para interface gráfica futura
+# pandas==1.5.3       # Para manipulação de dados avançada
+# pytest==7.2.0       # Para testes (se for implementar)
